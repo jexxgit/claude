@@ -2,3 +2,4 @@
 - [LULLABY assets & pièges](lullaby-assets-and-gotchas.md) — IDs Roblox uploadés, incident modération (sang), pipeline d'upload, pièges outils MCP/Studio [Claude Jexx]
 - [LULLABY à faire](lullaby-todo.md) — ce qui reste, ce qui n'a pas été vérifié, décisions de Jexx [Claude Jexx]
 - [LULLABY loading + intro](lullaby-loading-and-intro.md) — écran de chargement seringue (ReplicatedFirst, ShowLoading), intro T2W sur les Creators, données de téléportation START [Claude Jexx]
+- [LULLABY assis : vie procédurale](lullaby-seated-idle.md) — regard/yeux/respiration/bras/easter egg chapeau + pièges AnimationConstraint/Transform/RigidConstraint [Claude Jexx]
