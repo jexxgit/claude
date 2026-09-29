@@ -1,3 +1,4 @@
 - [LULLABY lobby menu](lullaby-lobby-menu.md) — place Claynns_Vicky : menu caméra + banc 4 sièges + party Create/Join/Leave + UI planches/lierre + patients ambiants ; noms des objets, scripts, contrats [Claude Jexx]
 - [LULLABY assets & pièges](lullaby-assets-and-gotchas.md) — IDs Roblox uploadés, incident modération (sang), pipeline d'upload, pièges outils MCP/Studio [Claude Jexx]
 - [LULLABY à faire](lullaby-todo.md) — ce qui reste, ce qui n'a pas été vérifié, décisions de Jexx [Claude Jexx]
+- [LULLABY loading + intro](lullaby-loading-and-intro.md) — écran de chargement seringue (ReplicatedFirst, ShowLoading), intro T2W sur les Creators, données de téléportation START [Claude Jexx]
